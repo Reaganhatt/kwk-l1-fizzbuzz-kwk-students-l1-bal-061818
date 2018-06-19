@@ -10,4 +10,4 @@ def fizz_buzz(int)
   end
 end
 
-fizz_buzz(30)
+fizz_buzz(3)
